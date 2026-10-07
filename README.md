@@ -15,10 +15,7 @@ BizFlow is a lightweight, single-file business management app for small business
 
 ## Getting Started
 
-1. Download `Bizflow.html`.
-2. Open it in any modern browser (Chrome, Edge, Firefox, Safari).
-
-That's it. To host it, drop the file on any static host (GitHub Pages, Netlify, an S3 bucket, etc.).
+https://priyanshjain08.github.io/BizFlow/
 
 ## How It Works
 
